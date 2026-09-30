@@ -12,3 +12,10 @@ title: Hello World
 **Obsidian + Git + GitHub**
 
 搭建的 Blog Demo。
+
+
+## 为什么使用 Obsidian？
+
+因为 Markdown 文件本身就是开放格式。
+
+即使未来不用 Obsidian，也可以继续使用这些内容。
