@@ -3,3 +3,19 @@ description: 我的个人技术博客
 theme: minima
 url: "https://holmes-pengge.github.io"
 baseurl: "/my-blog"
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+exclude:
+  - README.md
+  - "2026-09-30.md"
+  - "机器学习-2026-09-29.md"
+  - Excalidraw
+  - "未命名.canvas"
+  - "*.excalidraw.md"
+  - "*.canvas"
