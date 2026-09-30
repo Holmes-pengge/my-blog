@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aafd121ed26f7aec",
+        "id": "0ed4da2496f2bc3e",
         "type": "tabs",
         "children": [
           {
-            "id": "dd21c5213fbf7d3b",
+            "id": "c979deac981417fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/ai-coding.md",
-                "mode": "source",
+                "file": "2026-09-30.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-coding"
-            }
-          },
-          {
-            "id": "a43219a4fd5070fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/hello-world.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hello-world"
-            }
-          },
-          {
-            "id": "2f27e4ed8f4534e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/hello-world.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hello-world"
-            }
-          },
-          {
-            "id": "b33ccf482154a57b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/hello-world.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hello-world"
+              "title": "2026-09-30"
             }
           }
         ]
@@ -83,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -141,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2026-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2026-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -201,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_config.yml",
+                "file": "2026-09-30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,13 +188,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "73877356a66fe873",
+  "active": "c979deac981417fe",
   "lastOpenFiles": [
-    "_config.yml",
+    "posts/hello-world.md",
+    "2026-09-30.md",
     "posts/ai-coding.md",
     "index.md",
-    "posts/hello-world.md",
     "README.md",
+    "_config.yml.md",
     "_config.yml",
     "posts"
   ]
